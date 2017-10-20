@@ -14,3 +14,5 @@ npm start
 ```
 
 This app runs on [ https://localhost:3000](https://localhost:3000) 
+
+Kudos to [David Katz](https://github.com/15Dkatz). This project was a part of his course curricullum.
